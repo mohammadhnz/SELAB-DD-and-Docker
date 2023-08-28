@@ -1,4 +1,4 @@
-![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/c76dc6c9-cd6d-4036-8682-972af152de33)# SELAB-DD-and-Docker
+# SELAB-DD-and-Docker
 
 ## روال انجام آزمایش
 ### ساختار پروژه
@@ -7,6 +7,8 @@
 </div>
 
 ### نمودار UML
+![d drawio](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/0c26ba7a-25ef-45d5-9c93-e49811ce6479)
+
 
 ### داکرهای پروژه
 
@@ -30,4 +32,8 @@ sudo docker-compose up -d --build
 
 ### عکس لیست ایمیج‌ها و کانتینرها
 ![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/36fa3290-f6b0-4142-a2a0-dd06da9a0b4b)
+
+### تصاویر تست‌های پایتونی کنار پروژه
+![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/b2e6611c-0b6f-4f7a-ab90-5e3391ef1dfc)
+### تصاویر درخواست‌های پست من
 
