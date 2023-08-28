@@ -36,7 +36,15 @@ sudo docker-compose up -d --build
 ### تصاویر تست‌های پایتونی کنار پروژه
 ![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/b2e6611c-0b6f-4f7a-ab90-5e3391ef1dfc)
 ### تصاویر درخواست‌های پست من
-
+درخواست CREATE
 ![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/97a08851-91b8-49f2-949c-27b5d87ee283)
+درخواست GET
 ![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/65973488-f6a3-4260-8d61-1329b60bb13c)
+درخواست GET کل تسک‌ها
+![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/471a53ff-584e-459e-b6c2-f3de321f439e)
+درخواست UPDATE)PUT) 
+![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/cf8e9afb-584b-4bfa-b3dd-64ca855a3070)
+درخواست DELETE
+![image](https://github.com/mohammadhnz/SELAB-DD-and-Docker/assets/59181719/1d22aa18-6c86-47fd-80f3-a5d174f94d0f)
+
 
